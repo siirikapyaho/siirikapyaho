@@ -6,7 +6,7 @@ As you can see, at the moment this profile consists mostly of ✨future✨ proje
 
 However, here you can find a project I started a short while ago - [Delivery Fee Calculator](https://github.com/siirikapyaho/delivery-fee-calculator) - feel free to have look at how my journey with TypeScript, React and testing is going.
 
-You can also take a peek at my very first Python program, [Movie Theatre Bookin System](https://github.com/siirikapyaho/python-harjoitustyo), from year 2021.
+You can also take a peek at my very first Python program, [Movie Theatre Booking System](https://github.com/siirikapyaho/python-harjoitustyo), from year 2021.
 
 The repositories simple-fortune-cookie and github-action-katas are from my short exchange period at the University of Southern Denmark where I attended an intensive DevOps course by Eficode.
 
